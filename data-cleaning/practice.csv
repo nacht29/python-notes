@@ -1,0 +1,9 @@
+id,user_name,login_time,activity,duration
+1," Alice ","2024-02-17 9:05am","Logged in","10 min"
+2,BOB,"17-02-2024 09:10 AM","Viewed Report",9.5minutes
+3,Charlie,"2024/02/17 09:15:30","Downloaded File",8mins
+4,alice,"17-02-2024 9:20","Logged out","7,0 minutes"
+5,Eve,"17-Feb-2024 09:25AM","Uploaded File","6 mins"
+6,"BOB  ",2024-02-17T09:30:00,"Logged in","5 min"
+7,eve,"17-02-24 9:35","Edited Profile",4mins
+8,Charlie,"2024-02-17 09:15:30","Downloaded File",8mins
