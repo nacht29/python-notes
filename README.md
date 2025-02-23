@@ -6,3 +6,6 @@ As the name and about implies, this repo contains some notes I made while learni
 
 ### Data Cleaning
 As a special mention, **[data-cleaning](https://github.com/nacht29/python-notes/tree/main/data-cleaning)** directory contains an example of how to clean data in Python. Do anticipate more updates as I gain more knowledge about this.
+
+### Bigquery
+The  **[data-cleaning](https://github.com/nacht29/python-notes/tree/main/bigquery)** directory contains an example of how to perform ETL for **Google Bigquery** datasets in Python.
